@@ -1,7 +1,7 @@
 ---
 title: "STAT 184 Homework Exercises" 
-subtitle: "DataComputing Chapters 1 & 2"
-author: "Your Name"
+subtitle: "DataComputing Chapters 15"
+author: "eric weah "
 output: html_notebook
 ---
 
