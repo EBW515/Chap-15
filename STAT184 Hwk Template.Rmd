@@ -54,4 +54,13 @@ plot 3
 Galton%>%
   ggplot(aes(x=height, y=mother))+facet_wrap(~sex)+geom_density2d()
 ```
+### Problem 15.5
+a.) there is a average child population in high elderly population
 
+b.) there is no indication of a positive linear relationship
+
+c.) small negative linear line
+
+d.) similar ratio but the directions are oppsite, the incline of both bands are about the same
+
+e.)given the grapgh that is not correct
